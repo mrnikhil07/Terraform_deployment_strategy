@@ -24,7 +24,7 @@ D) Recreate Strategy  (IMP)
 4. but in this we can run previous current and new code in same time.
 5. Here we required some downtime.
 
-E) A/B Deployment ----> It used foe Testing purpose
+E) A/B Deployment ----> It used for Testing purpose
 =====================================================
 1. This will work on loadbalencer if part A has old code and serving for server 1 the part B will server for new code.
 2. A/B testing = version b is released to particular subset of user under specific condition.
